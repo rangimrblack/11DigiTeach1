@@ -1,0 +1,9 @@
+/* We define what we want to style by using it's tag
+without the <> and then put what we want to change
+inside of {} */
+
+/* Using text */
+h1 {
+    color: forestgreen;
+}
+
